@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "LAPTOP-YT",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/AAktnS9vKxQ1tJPD85GxdcCjO8bcgeYVtpOvjKGa1hcu7GjNIX",
+  "gitHubUrl": "https://github.com/TaoYang-z/USTC-ncov-AutoReport",
+  "workFolder": "_work"
+}
